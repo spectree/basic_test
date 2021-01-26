@@ -1,6 +1,6 @@
 
 void call(){
-    stage("Gradle: hello"){
+    stage("Gradle: build"){
         println "build from the hello library"
     }
 }
